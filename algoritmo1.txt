@@ -1,0 +1,11 @@
+1.Algoritmo de soma de dois números: um algoritmo simples que pede dois números como entrada e retorna a soma desses dois números.
+
+var
+
+escreva("digite dois numeros")
+leia(x)
+leia(y)
+soma = x+y
+escreva ("soma =",soma)
+
+fim
