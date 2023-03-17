@@ -1,11 +1,15 @@
 1.Algoritmo de soma de dois números: um algoritmo simples que pede dois números como entrada e retorna a soma desses dois números.
-
-var
-
-escreva("digite dois numeros")
-leia(x)
-leia(y)
-soma = x+y
-escreva ("soma =",soma)
-
-fim
+//var é uma variavel
+		
+	var primeiroValor = 0;
+	var segundoValor = 0;
+	var resultado = 0;
+	
+	escreva ("Digite o primeiro número: ");
+	leia (primeiroValor);
+	escreva ("Digite o segundo número: ");
+	leia (segundoValor);
+	
+	resultado = (primeiroValor + segundoValor);
+	
+	escreva("A soma dos dois números é: " + resultado);	
