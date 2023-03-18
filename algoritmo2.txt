@@ -1,0 +1,23 @@
+2.Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
+
+var
+Celsius : inteiro
+Fahrenheit: inteiro
+temperatura : inteiro
+Resultado1 : inteiro
+Resultado2 : inteiro
+inicio
+Escreva ("Voce quer valor em Celcius(1)ou fahrenheit (2)")
+leia(Resultado1)
+Escreva ("digite a temperatura")
+leia (temperatura)
+se Resultado1 = 1
+   Resultado1 =((Celsius * 1,8)+ 32)
+   Escreva (Resultado1)
+senao
+Resultado2 = ((Fahrenhe - 32) / 1,8)
+Escreva ("Resultado2")
+
+
+fimalgoritmo
+fim
